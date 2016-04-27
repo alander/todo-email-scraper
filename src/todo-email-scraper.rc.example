@@ -1,0 +1,10 @@
+[email]
+server = "imap.gmail.com"
+username = "tasks@gmail.com"
+password = "password-goes-here"
+authorized_senders = "sender1@gmail.com", "sender2@hotmail.com"
+
+[org]
+diary_file = "/path/to/file.org"
+todo_target_property_line = ":todo-target: true"
+todo_subject_keywords = "todo", "to do"
